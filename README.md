@@ -1,6 +1,6 @@
 # DASCTF 征题 Docker 模板-Ubuntu19.04-Xinetd-Chroot-Readflag
 ## 内含组件
-Ubuntu19.04
+- Ubuntu19.04
 - Xinetd
 - Chroot
 - Readflag
